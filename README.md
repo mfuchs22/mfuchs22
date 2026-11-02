@@ -29,36 +29,29 @@ Built end to end: product, brand, a multi-model coach, a deterministic executor 
 
 ## Also featured: Job Search Board
 
-A one-screen command center for a senior, network-driven job search. A daily routine collects postings, a model scores each one against a rubric I keep correcting, and verdicts, pipeline moves, people and to-dos flow into one record that every view is generated from.
+A one-screen command center for a senior job search: a daily routine finds and scores roles, and every pipeline move, person and to-do lives in one record.
 
-**[Live demo](https://demo.mattfuchs.dev/job-board/)** · **[Repo and build guide](https://github.com/mfuchs22/job-search-board)**
+**[Live demo](https://demo.mattfuchs.dev/job-board/)** · **[Repo](https://github.com/mfuchs22/job-search-board)**
 
-[![The Overview tab](https://raw.githubusercontent.com/mfuchs22/job-search-board/main/screenshots/overview.png)](https://demo.mattfuchs.dev/job-board/)
+[![Job Search Board: the pipeline and the map](assets/job-board.jpg)](https://demo.mattfuchs.dev/job-board/)
 
 ---
 
-## What's running
-
-| System | What it does |
-|---|---|
-| **Personal OS** | The repo every other agent reads: context, decisions, and a chief-of-staff router that sends plain-language requests to the right agent |
-| **Media digest** | Turns what I watch and listen to into wiki pages and a morning digest |
-| **Fantasy football agent** | Lineups and waivers, with moves made only once I approve |
-| **Task board** | Phone and laptop view over my task database |
-| **Bike garage** | Builds, parts and compatibility for a shared garage |
-| **Home OS** | The house as a system, plus a 3D property model (in progress) |
-
 ## How I run
+
+AI-obsessed. I build with these tools every day, study how they work, and can't get enough of what's new.
 
 - **Heavy Claude Code**
 - **Heavy Codex**
 - **Heavy Grok**
 - **Exploring multimodal agents:** voice, image generation and video generation
 
-Deterministic code wherever the answer must be exact, a model only where judgment is needed, and a human approves anything that reaches another person.
+**In the toolbox:** Claude Code · Codex · Grok · ElevenLabs (API) · Runway · Gemini · Higgsfield · Kling · Hume · Supabase · Vercel · MCP
 
-## Elsewhere
+---
 
-- NextSession: [getnextsession.com](https://getnextsession.com/welcome)
-- Demos: [demo.mattfuchs.dev](https://demo.mattfuchs.dev)
-- LinkedIn: [matt-fuchs-cfa](https://www.linkedin.com/in/matt-fuchs-cfa)
+## Links
+
+- **NextSession:** [getnextsession.com](https://getnextsession.com/welcome)
+- **Demos:** [demo.mattfuchs.dev](https://demo.mattfuchs.dev)
+- **LinkedIn:** [matt-fuchs-cfa](https://www.linkedin.com/in/matt-fuchs-cfa)
