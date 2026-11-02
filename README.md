@@ -46,7 +46,7 @@ AI-obsessed. I build with these tools every day, study how they work, and can't 
 - **Heavy Grok**
 - **Exploring multimodal agents:** voice, image generation and video generation
 
-**In the toolbox:** Claude Code · Codex · Grok · ElevenLabs (API) · Runway · Gemini · Higgsfield · Kling · Hume · Supabase · Vercel · MCP
+**In the toolbox:** Claude Code · Codex · Grok · ElevenLabs · Runway · Gemini · Supabase · Vercel
 
 ---
 
