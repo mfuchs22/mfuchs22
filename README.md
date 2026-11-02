@@ -37,16 +37,11 @@ A one-screen command center for a senior job search: a daily routine finds and s
 
 ---
 
-## How I run
+## Toolbox
 
-AI-obsessed. I build with these tools every day, study how they work, and can't get enough of what's new.
+AI-obsessed. I build with these tools every day, study how they work, and can't get enough of what's new. Lately: multimodal agents with voice, image and video generation.
 
-- **Heavy Claude Code**
-- **Heavy Codex**
-- **Heavy Grok**
-- **Exploring multimodal agents:** voice, image generation and video generation
-
-**In the toolbox:** Claude Code · Codex · Grok · ElevenLabs · Runway · Gemini · Supabase · Vercel
+**Claude Code · Codex · Grok · ElevenLabs · Runway · Gemini · Supabase · Vercel**
 
 ---
 
