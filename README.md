@@ -1,6 +1,6 @@
 # Matt Fuchs
 
-Building **[NextSession](https://getnextsession.com/welcome)**, an AI coach that rebuilds your training plan around your week.
+Building **[NextSession](https://getnextsession.com/)**, a training plan that adapts to your life.
 
 I build AI products and agents, and I run them every day. Fifteen years on the business side of a $30B asset manager, finishing as the lead on its firm-wide AI rollout. In July 2026 I left to build full time.
 
@@ -8,22 +8,23 @@ I build AI products and agents, and I run them every day. Fifteen years on the b
 
 ## NextSession
 
-[![NextSession. A training plan that rebuilds itself around your week.](assets/nextsession-banner.png)](https://getnextsession.com/welcome)
+[![NextSession. For anyone training toward a goal: a training plan that adapts to your life.](assets/nextsession-banner.png)](https://getnextsession.com/)
 
-**You do the workout. NextSession does everything else.**
+**A training plan that adapts to your life.** When your week changes, NextSession rebuilds the plan around it and keeps you moving toward your goal.
 
-Training plans assume a perfect week, and life moves it anyway: a work trip, a bad night, a meeting that runs over. NextSession is an AI coach that keeps up. Set the goal and the time you have, and it puts structured sessions on your calendar and your watch, reworks the week when something changes, and tells you how each workout went and what it means for the next one.
+Training plans assume a perfect week. Then life happens: a meeting runs over, a head cold, a 7am flight. NextSession is a plan that rebalances around your real week. Set the goal and the time you have, and it puts structured sessions on your calendar and your watch, rebuilds the week when something changes, and tells you how each workout went and what it means for the next one. For anyone training toward a goal, from a first 5K to a triathlon.
 
-**[getnextsession.com](https://getnextsession.com/welcome)** · **[Try the live demo](https://getnextsession.com/?event=half)** (no sign-in) · **[Get early access](https://getnextsession.com/join.html)**
+**[getnextsession.com](https://getnextsession.com/)** · **[Try the live demo](https://getnextsession.com/app/?event=half)** (no sign-in) · **[Get early access](https://getnextsession.com/join/)**
 
-[![NextSession on desktop and phone](assets/nextsession-app.jpg)](https://getnextsession.com/?event=half)
+[![NextSession on desktop and phone](assets/nextsession-app.jpg)](https://getnextsession.com/app/?event=half)
 
-- **Replans in a sentence.** "I'm travelling Tuesday" becomes a reworked week, with what the change costs shown before anything moves.
+- **You say what changed.** "I'm travelling Tuesday" becomes a rebalanced week, with what the change costs shown before anything moves.
 - **Does the admin.** Every session lands on your calendar and your Garmin or Wahoo as a structured workout with targets.
 - **Reads the morning.** HRV, sleep and training load against your own usual decide whether today stands as written.
-- **Works with your AI assistant.** An MCP server lets Claude, ChatGPT or any MCP client read and change your plan, with undo.
+- **Talk to it where you already are.** In the app, or from Claude, ChatGPT or Grok through an MCP server, with undo.
+- **Gets better over time.** It learns how your body responds and how you like to be coached.
 
-Built end to end: product, brand, a multi-model coach, a deterministic executor that checks and reads back every write, and eval suites calibrated on human labels. The source is private.
+**Your goal. Your week. Your plan.** Built end to end: product, brand, a multi-model coach, a deterministic executor that checks and reads back every write, and eval suites calibrated on human labels. The source is private.
 
 ---
 
@@ -47,6 +48,6 @@ AI-obsessed. I build with these tools every day, study how they work, and can't 
 
 ## Links
 
-- **NextSession:** [getnextsession.com](https://getnextsession.com/welcome)
+- **NextSession:** [getnextsession.com](https://getnextsession.com/)
 - **Demos:** [demo.mattfuchs.dev](https://demo.mattfuchs.dev)
 - **LinkedIn:** [matt-fuchs-cfa](https://www.linkedin.com/in/matt-fuchs-cfa)
