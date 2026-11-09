@@ -50,4 +50,4 @@ AI-obsessed. I build with these tools every day, study how they work, and can't 
 
 - **NextSession:** [getnextsession.com](https://getnextsession.com/)
 - **Demos:** [demo.mattfuchs.dev](https://demo.mattfuchs.dev)
-- **LinkedIn:** [matt-fuchs-cfa](https://www.linkedin.com/in/matt-fuchs-cfa)
+- **LinkedIn:** [mattefuchs](https://www.linkedin.com/in/mattefuchs)
