@@ -1,8 +1,8 @@
 # Matt Fuchs
 
-Building **[NextSession](https://getnextsession.com/)**, a training plan that adapts to your life.
-
 I build AI products and agents, and I run them every day. Fifteen years on the business side of a $30B asset manager, finishing as the lead on its firm-wide AI rollout. In July 2026 I left to build full time.
+
+Building **[NextSession](https://getnextsession.com/)**, a training plan that adapts to your life.
 
 ---
 
